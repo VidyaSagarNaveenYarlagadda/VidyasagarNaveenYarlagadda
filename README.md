@@ -1,2 +1,1 @@
-# VidyaNY
-Vidyasagar
+# VidyaSagarNY
